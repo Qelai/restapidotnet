@@ -11794,23 +11794,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mqelai\\.nuget\\packages\\": {},
+    "C:\\Users\\QELAI Mohamed\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mqelai\\Documents\\NotWrksp\\restapidotnet\\CmdApi.csproj",
+      "projectUniqueName": "C:\\Users\\QELAI Mohamed\\Documents\\restapidotnet\\CmdApi.csproj",
       "projectName": "CmdApi",
-      "projectPath": "C:\\Users\\mqelai\\Documents\\NotWrksp\\restapidotnet\\CmdApi.csproj",
-      "packagesPath": "C:\\Users\\mqelai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mqelai\\Documents\\NotWrksp\\restapidotnet\\obj\\",
+      "projectPath": "C:\\Users\\QELAI Mohamed\\Documents\\restapidotnet\\CmdApi.csproj",
+      "packagesPath": "C:\\Users\\QELAI Mohamed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QELAI Mohamed\\Documents\\restapidotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mqelai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\QELAI Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

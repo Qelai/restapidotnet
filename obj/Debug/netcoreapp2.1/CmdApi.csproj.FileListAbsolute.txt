@@ -26,3 +26,17 @@ C:\Users\mqelai\Documents\NotWrksp\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.
 C:\Users\mqelai\Documents\NotWrksp\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.RazorTargetAssemblyInfo.cache
 C:\Users\mqelai\Documents\NotWrksp\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.dll
 C:\Users\mqelai\Documents\NotWrksp\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.pdb
+C:\Users\QELAI Mohamed\Documents\restapidotnet\bin\Debug\netcoreapp2.1\CmdApi.deps.json
+C:\Users\QELAI Mohamed\Documents\restapidotnet\bin\Debug\netcoreapp2.1\CmdApi.runtimeconfig.json
+C:\Users\QELAI Mohamed\Documents\restapidotnet\bin\Debug\netcoreapp2.1\CmdApi.runtimeconfig.dev.json
+C:\Users\QELAI Mohamed\Documents\restapidotnet\bin\Debug\netcoreapp2.1\CmdApi.dll
+C:\Users\QELAI Mohamed\Documents\restapidotnet\bin\Debug\netcoreapp2.1\CmdApi.pdb
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.csprojAssemblyReference.cache
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.csproj.CoreCompileInputs.cache
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.RazorAssemblyInfo.cache
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.RazorAssemblyInfo.cs
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.AssemblyInfoInputs.cache
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.AssemblyInfo.cs
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.RazorTargetAssemblyInfo.cache
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.dll
+C:\Users\QELAI Mohamed\Documents\restapidotnet\obj\Debug\netcoreapp2.1\CmdApi.pdb
